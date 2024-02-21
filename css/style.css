@@ -1,0 +1,14 @@
+body{
+    background-color: #E9ECEF;
+}
+
+.calc{
+    height: calc(100vh - 97px);
+}
+
+.price{
+    background-color: #198754;
+    color: #fff;
+    border-radius: 8px;
+    padding: 4px 12px ;
+}
